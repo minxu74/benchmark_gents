@@ -1,0 +1,11 @@
+Scripts to be used in benchmarking performance of tools to generate time series. 
+
+Currently, we benchmark two tools
+
+- ncclimo
+- Pyreshaper 
+
+on two NERSC mahines
+- Edison
+- Cori-knl
+
